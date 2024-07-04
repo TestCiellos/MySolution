@@ -1,5 +1,6 @@
 {
   "country": "us",
+  "artifact": "bcartifacts/sandbox/22.0.54157.55210/us/closest",
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": []
